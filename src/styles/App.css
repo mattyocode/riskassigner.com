@@ -1,7 +1,6 @@
 $breakpoint-tablet: 767px;
 $breakpoint-desktop: 1192px;
 
-
 .App {
   text-align: center;
 }
@@ -102,22 +101,3 @@ input {
 .assign {
   margin: auto 2%;
 }
-
-/* .inputContainer {
-  flex: 2;
-  color: white;
-  border: white 2px solid;
-  width: 500px;
-  height: 150px;
-  display:flex;
-}
-
-.goContainer {
-  flex: 1;
-  border: white 2px solid;
-  width: 250px;
-  height: 150px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-} */
